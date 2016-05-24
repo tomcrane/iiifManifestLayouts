@@ -12,6 +12,7 @@ var App = {
 
     // Some choice fixture objects with real content.
    [
+       {url: 'http://tomcrane.github.io/scratch/manifests/foldout-as-choice.json', label: 'Pseudo-Albert the Great, De secretis mulierum'},
    {url: 'http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json', label: 'BNF Detail Images Demo (Chateauroux)'},
    {url:'http://manifests.ydc2.yale.edu/manifest/Osbornfa1v2.json', label: "Yale Osborn with choice (see 53r)"},
    {url: 'http://dms-data.stanford.edu/data/manifests/BnF/jr903ng8662/manifest.json', label: 'Stanford DMS Manuscript (example of typical object)'},

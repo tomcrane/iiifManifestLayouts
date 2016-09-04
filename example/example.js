@@ -12,7 +12,16 @@ var App = {
 
     // Some choice fixture objects with real content.
     [
+      {url: 'https://dlcs.io/iiif-resource/iiifly/manifest/M-1011_R-127', label: 'IDA m1011 raw from DLCS'},
+      {url: 'https://tomcrane.github.io/scratch/manifests/ida/m1011-na.json', label: 'National Archives intro'},
+      {url: 'https://tomcrane.github.io/scratch/manifests/ida/m1011-san-juan-1920-22.json', label: 'San Juan 1920-1922'},
+      {url: 'https://tomcrane.github.io/scratch/manifests/ida/m1011-santa-fe-1910-30.json', label: 'Santa Fe 1910-1930'},
+      {url: 'https://tomcrane.github.io/scratch/manifests/ida/m1011-santa-fe-1910-30-annual-report-1914.json', label: 'Santa Fe Annual Report 1914'},
+      {url: 'https://dlcs.io/iiif-resource/iiifly/manifest/2016_01', label: 'IDA-2016-01'},
+      {url: 'https://dlcs.io/iiif-resource/iiifly/manifest/2016_02', label: 'IDA-2016-02'},
+      {url: 'https://dlcs.io/iiif-resource/iiifly/manifest/2016_03', label: 'IDA-2016-03'},
       {url: 'http://dms-data.stanford.edu/data/manifests/BnF/jr903ng8662/manifest.json', label: 'Stanford DMS Manuscript (example of typical object)'},
+      {url: 'http://tomcrane.github.io/scratch/manifests/foldout-as-choice.json', label: 'Pseudo-Albert the Great (second canvas)'},
       {url: 'http://demos.biblissima-condorcet.fr/iiif/metadata/BVMM/chateauroux/manifest.json', label: 'BNF Detail Images Demo (Chateauroux)'},
       {url:'http://manifests.ydc2.yale.edu/manifest/Osbornfa1v2.json', label: "Yale Osborn with choice (see 53r)"},
       {url: 'http://iiif.ub.uni-leipzig.de/0000000001/manifest.json', label: 'Leipzig Scroll'},
